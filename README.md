@@ -1,4 +1,4 @@
-Download the version of clingo specific for your OS: https://github.com/potassco/clingo/releases/tag/v5.4.0
+Installation instructions for different O.Ss building from sources or using Anaconda for Clingo v5.4.0 can be found here: https://github.com/potassco/clingo/blob/master/INSTALL.md, https://potassco.org/clingo/,https://github.com/potassco/clingo/releases/tag/v5.4.0
 
 There are 2 main folders, one for the scheduling of the different scenarios and one for the comparison.
 
